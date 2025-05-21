@@ -7,3 +7,6 @@ Made some tests with headers
 let userName = prompt("What is your name ?", "Ex : John");
 alert (userName);
 ```
+- [x] Progress in the tutorial
+- [ ] find a smaller image
+- [ ] get laid
